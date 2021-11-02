@@ -1,0 +1,14 @@
+{
+  "name": "meteorcatcher",
+  "version": "1.0.0",
+  "description": "Catch the meteor!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Megan Abou Chacra",
+  "license": "ISC",
+  "dependencies": {
+    "p5": "^1.4.0"
+  }
+}
